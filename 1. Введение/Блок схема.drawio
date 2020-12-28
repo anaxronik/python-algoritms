@@ -1,0 +1,52 @@
+<mxfile host="65bd71144e" modified="2020-12-28T07:24:16.018Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.52.1 Chrome/83.0.4103.122 Electron/9.3.5 Safari/537.36" etag="fibxgzd76EJKXDTQMTAe" version="13.10.0" type="embed">
+    <diagram id="UQ-3sxnPvoIQj1sffOtu" name="Страница 1">
+        <mxGraphModel dx="838" dy="649" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="bf-oWtXfWMjx6xsBMpCj-1" value="Терминатор" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="120" y="80" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="2" value="Вход или выход" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="280" y="100" width="240" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="Процесс" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="120" y="160" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="Выполнение операции" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="280" y="180" width="240" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="Решение" style="rhombus;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="120" y="240" width="80" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="Альтернативные ветви выполнения" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="280" y="270" width="240" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="Основные элементы" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=21;" vertex="1" parent="1">
+                    <mxGeometry x="152" y="16" width="305" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="Блок схема" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=21;" vertex="1" parent="1">
+                    <mxGeometry x="152" y="360" width="305" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="Предопределеный процесс" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=0;sketch=0;fontSize=10;" vertex="1" parent="1">
+                    <mxGeometry x="120" y="400" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="Отображает выполнение процессаб который определен в другом месте программы IMPORT" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="280" y="420" width="240" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="Данные" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;sketch=0;fontSize=12;" vertex="1" parent="1">
+                    <mxGeometry x="120" y="480" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="Ввод вывод даных" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="280" y="500" width="240" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="Соединитель" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;sketch=0;fontSize=12;" vertex="1" parent="1">
+                    <mxGeometry x="120" y="560" width="80" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="Вход и выход из другой части схемы" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="280" y="590" width="240" height="20" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
